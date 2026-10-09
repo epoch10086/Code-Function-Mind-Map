@@ -1,0 +1,6 @@
+interface:
+  display_name: "Code-Function-Mind-Map"
+  short_description: "生成多语言项目的函数职责、调用关系、单文件 XMind 与离线双击更新入口"
+  default_prompt: "使用 $code-function-mind-map 为当前项目生成直观的函数调用思维导图。"
+policy:
+  allow_implicit_invocation: true

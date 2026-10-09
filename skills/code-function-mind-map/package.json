@@ -1,0 +1,9 @@
+{
+  "name": "code-function-mind-map-runtime",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "typescript": "5.9.3",
+    "@vue/compiler-sfc": "3.5.22"
+  }
+}
